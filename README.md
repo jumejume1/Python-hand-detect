@@ -20,6 +20,5 @@ mp_draw = mp.solutions.drawing_utils
 COM_PORT = "/dev/cu.usbserial-202206_1CF25B0"
 BASE_BARTRATE = 115200
 MAX_BARTRATE = 3000000
-
 QUANTIZE = 2 # mm
 ```
