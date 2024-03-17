@@ -8,7 +8,7 @@ MaixSense-A010 is an extremely cost-effective 3D sensor module composed of BL702
 <br><br>Youtube overview <BR>
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/CPq58z2kVi8/0.jpg)](https://www.youtube.com/watch?v=CPq58z2kVi8)
 <br>
-'''
+```
 from metasense import MetaSense
 
 mp_hands = mp.solutions.hands
@@ -20,4 +20,4 @@ BASE_BARTRATE = 115200
 MAX_BARTRATE = 3000000
 
 QUANTIZE = 2 # mm
-'''
+```
