@@ -9,7 +9,7 @@ MaixSense-A010 is an extremely cost-effective 3D sensor module composed of BL702
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/CPq58z2kVi8/0.jpg)](https://www.youtube.com/watch?v=CPq58z2kVi8)
 <br>
 
-Python >br>
+Python <br>
 ```
 from metasense import MetaSense
 
